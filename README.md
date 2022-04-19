@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @gkatsikis, you can call me Georgios (pronounced 'your-gose') or a nickname of your choice 
+
 - 👀 I’m interested in learning how to learn, meditating, brazilian jiu jitsu, nature, and the human experience
 
 Current Focus:
@@ -30,7 +31,7 @@ What I would like to learn:
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 - 💞️ I’m looking to collaborate on anything involving large amounts of data and especially if it involves the fields of health, well-being, coffee, or anything involving the human experience.
-- 
+
 - 📫 How to reach me ... by e-mail! georgioscabro@gmail.com
 
 <!---
