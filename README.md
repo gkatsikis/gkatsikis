@@ -1,14 +1,12 @@
-- 👋 Hi, I’m @gkatsikis, you can call me Georgios (pronounced 'your-gose') or a nickname of your choice 
+# 👋 Hi, I’m Georgios
+#### you can call me Georgios (pronounced 'your-gose') or a nickname of your choice 
 
-- 👀 I’m interested in learning how to learn, meditating, brazilian jiu jitsu, nature, and the human experience
+I’m interested in learning how to learn, meditating, reading, brazilian jiu jitsu, judo, nature, and the human experience
 
-Current Focus:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkatsikis)](https://github.com/gkatsikis/github-readme-stats)
+[![Georgios's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkatsikis)](https://github.com/gkatsikis/github-readme-stats)
 
-Technologies:
+## Technologies:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -17,11 +15,11 @@ Technologies:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-DBs:
+## DBs:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-What I would like to learn:
+## What I would like to learn:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -30,9 +28,13 @@ What I would like to learn:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
+## Interests
 - 💞️ I’m looking to collaborate on anything involving large amounts of data and especially if it involves the fields of health, well-being, coffee, or anything involving the human experience.
 
-- 📫 How to reach me ... by e-mail! georgioscabro@gmail.com
+## Contact Me
+- 📫 How to reach me ... by [e-mail!](georgioscabro@gmail.com)
+- 💼 Or checkout my [LinkedIn](www.linkedin.com/in/georgios-katsikis)
+
 
 <!---
 gkatsikis/gkatsikis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
