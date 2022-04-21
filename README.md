@@ -32,7 +32,7 @@ I’m interested in learning how to learn, meditating, reading, brazilian jiu ji
 - 💞️ I’m looking to collaborate on anything involving large amounts of data and especially if it involves the fields of health, well-being, coffee, or anything involving the human experience.
 
 ## Contact Me
-- 📫 How to reach me ... by [e-mail!](georgioscabro@gmail.com)
+- 📫 How to reach me ... by e-mail georgioscabro@gmail.com
 - 💼 Or checkout my [LinkedIn](www.linkedin.com/in/georgios-katsikis)
 
 
