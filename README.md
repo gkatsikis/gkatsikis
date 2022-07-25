@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Georgios
-#### you can call me Georgios (pronounced 'your-gose') or a nickname of your choice 
+#### you can call me Georgios (pronounced 'your-gose') 
 
-I’m interested in learning how to learn, meditating, reading, brazilian jiu jitsu, judo, nature, and the human experience
+I'm a software engineer interested in experiencing life through coding meaningful projects, learning and exploring, and mindfully living.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkatsikis)](https://github.com/gkatsikis/github-readme-stats)
 [![Georgios's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkatsikis)](https://github.com/gkatsikis/github-readme-stats)
