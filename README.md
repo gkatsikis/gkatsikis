@@ -4,7 +4,7 @@
 I'm a software engineer interested in experiencing life through coding meaningful projects, learning and exploring, and mindfully living.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkatsikis)](https://github.com/gkatsikis/github-readme-stats)
-[![Georgios's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkatsikis)](https://github.com/gkatsikis/github-readme-stats)
+[![Georgios's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkatsikis&show_icons=true&theme=radical)](https://github.com/gkatsikis/github-readme-stats)
 
 ## Technologies:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
