@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Georgios
 #### you can call me Georgios (pronounced 'your-gose') 
 
-I'm a software engineer interested in experiencing life through coding meaningful projects, learning and exploring, and mindfully living.
+I'm a software engineer interested in experiencing life through coding meaningful projects, learning new things, exploring the world, and mindfully living.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkatsikis)](https://github.com/gkatsikis/github-readme-stats)
 [![Georgios's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkatsikis&show_icons=true&theme=radical)](https://github.com/gkatsikis/github-readme-stats) -->
