@@ -35,7 +35,7 @@
 
 ## Contact Me
 - 📫 georgioscabro@gmail.com
-- 💼 Or checkout my [LinkedIn](www.linkedin.com/in/georgios-katsikis)
+- 💼 Or checkout my ![LinkedIn](www.linkedin.com/in/georgios-katsikis)
 
 
 <!---
